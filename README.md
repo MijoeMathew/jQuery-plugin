@@ -1,4 +1,4 @@
 jQuery-plugin
 =============
 
-Contains a jQuery plugin for image captions
+Contains a jQuery plugin for image captions(Development Mode)
